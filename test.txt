@@ -1,0 +1,16 @@
+let
+    var x : int;
+    var y : char;
+    var x : char
+in begin
+    let
+        var x : char;
+        var a : char
+    in begin
+        x := x * 10;
+        let
+            var e : int
+        in
+            print(x)
+    end
+end
